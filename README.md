@@ -16,7 +16,7 @@ A transferencia de aprendizado possibilita aproveitarmos modelos pré-treinados 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuUsuario/MeuProjetoCNN_MATLAB.git
+   git clone https://github.com/seuUsuario/CNN-with-MATHLAB.git
 
 2. Descompacte a pasta caltech-101.zip
 
